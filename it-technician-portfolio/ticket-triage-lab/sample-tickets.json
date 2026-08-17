@@ -1,0 +1,6 @@
+[
+  {"id":"INC-1042","summary":"Payroll workstation cannot access payroll share","urgency":4,"affected_users":3,"business_impact":"payroll","security_indicator":false},
+  {"id":"INC-1043","summary":"User approved an unexpected MFA prompt","urgency":5,"affected_users":1,"business_impact":"individual","security_indicator":true},
+  {"id":"INC-1044","summary":"Training-room projector has no signal","urgency":2,"affected_users":12,"business_impact":"meeting","security_indicator":false},
+  {"id":"INC-1045","summary":"Warehouse Wi-Fi unavailable","urgency":5,"affected_users":35,"business_impact":"operations","security_indicator":false}
+]

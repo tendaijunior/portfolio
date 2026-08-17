@@ -1,0 +1,4 @@
+site,room,wall_port,patch_panel,switch,switch_port,vlan,device,status,last_verified
+Training Lab,Reception,W-01,PP-A-01,SW-LAB-01,Gi1/0/1,10,Reception-PC,Active,2026-08-01
+Training Lab,Workshop,W-08,PP-A-08,SW-LAB-01,Gi1/0/8,20,Test-Bench,Active,2026-08-01
+Training Lab,Storeroom,W-12,PP-A-12,SW-LAB-01,Gi1/0/12,30,CCTV-NVR,Review,2026-07-14
